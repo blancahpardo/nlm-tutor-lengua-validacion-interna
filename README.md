@@ -1,5 +1,7 @@
 # Validación interna del Tutor de lengua española en NotebookLM
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21071263.svg)](https://doi.org/10.5281/zenodo.21071263)
+
 Este repositorio documenta la validación interna experta del cuaderno de NotebookLM «Tutor de lengua española». El objetivo es comprobar el comportamiento del prototipo ante un banco de preguntas piloto antes de su posible uso con alumnado.
 
 La validación no es un estudio de impacto ni mide aprendizaje real. La unidad de análisis es cada pregunta-respuesta generada por el cuaderno.
@@ -48,6 +50,6 @@ Esto permite copiar, distribuir, adaptar y reutilizar los materiales, incluso co
 
 Cita recomendada:
 
-> Hernández Pardo, B. (2026). *Validación interna del Tutor de lengua española en NotebookLM* [Repositorio de datos, rúbricas, matrices e informes de validación interna]. CC BY 4.0.
+> Hernández Pardo, B. (2026). *Validación interna del Tutor de lengua española en NotebookLM* [Repositorio de datos, rúbricas, matrices e informes de validación interna]. Zenodo. https://doi.org/10.5281/zenodo.21071263
 
 Los materiales de terceros mencionados en registros de fuentes, referencias bibliográficas o documentación auxiliar conservan sus propias condiciones de uso.
