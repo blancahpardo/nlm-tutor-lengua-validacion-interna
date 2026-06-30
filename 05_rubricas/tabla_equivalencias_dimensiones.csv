@@ -1,0 +1,8 @@
+dimension_homogenea,codigo,dimension_previa_relacionada,bloque_o_contexto,descripcion_equivalencia,uso_en_resultados
+Corrección lingüística,D1,Corrección / corrección normativa / corrección lingüística,A-B-C,Evalúa la adecuación lingüística del criterio ofrecido,Se usa en medias por dimensión e índice lingüístico
+Diagnóstico del fenómeno,D2,Diagnóstico / detección de límite,A-B-C,Evalúa la identificación del fenómeno o problema,Se usa en índice pedagógico e índice lingüístico
+Socratismo / adaptación al comando,D3,Comportamiento socrático / adecuación al comando / adaptación a estrés,A-B-C,Evalúa la estrategia de interacción,Se usa en índice pedagógico
+Claridad explicativa,D4,Claridad / claridad explicativa,A-B-C,Evalúa comprensibilidad y orden,Se usa en índice pedagógico
+Manejo de matices,D5,Matices / prudencia / no simplificación,A-B-C,Evalúa precisión y cautela,Se usa en índice lingüístico
+Fidelidad documental,D6,Fidelidad a fuentes / no invención,A-B-C,Evalúa trazabilidad y respeto a fuentes,Se usa como índice documental
+Transferencia / aplicación / seguridad,D7,Transferencia / comprobación / seguridad,A-B-C,Evalúa aplicación o actuación segura,Se usa en índice pedagógico
