@@ -23,6 +23,10 @@ license: "CC-BY-4.0"
 version: "1.0.0"
 date-released: "2026-06-30"
 
+repository-code: https://github.com/blancahpardo/nlm-tutor-lengua-validacion-interna
+url: https://zenodo.org/records/21071263 
+doi: https://doi.org/10.5281/zenodo.21071263
+
 preferred-citation:
   type: generic
   title: "Validación interna del Tutor de lengua española en NotebookLM"
@@ -30,4 +34,5 @@ preferred-citation:
     - family-names: "Hernández Pardo"
       given-names: "Blanca"
   year: 2026
+  doi: https://doi.org/10.5281/zenodo.21071263
   notes: "Repositorio de datos, rúbricas, matrices e informes de validación interna de un prototipo de tutor de lengua española en NotebookLM."
